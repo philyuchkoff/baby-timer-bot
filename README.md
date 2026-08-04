@@ -1,5 +1,8 @@
 # 🤰 baby-timer-bot
 
+![GitHub issues](https://img.shields.io/github/issues/philyuchkoff/baby-timer-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/philyuchkoff/baby-timer-bot)
+
 Telegram-бот для расчёта акушерского срока, предполагаемой даты родов (ПДР) и даты выхода в декрет по российским медицинским и юридическим стандартам.
 
 ## 🚀 Возможности
